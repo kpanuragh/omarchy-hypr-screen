@@ -1,8 +1,8 @@
 # Hypr Screen for the Omarchy bar
 
-**Your Android phone as a second Hyprland screen, one click away in the bar.**
+**A Sidecar-style second screen for Omarchy. Extend your desktop onto your Android phone, and control it from the bar.**
 
-[Hypr Screen](https://github.com/kpanuragh/hypr-screen) turns an Android phone into a real Hyprland monitor over USB or Wi-Fi, with touch, the phone keyboard, a shared clipboard, laptop sound on the phone and the phone mic for calls. This widget puts all of it in the Omarchy bar.
+Plug in your phone, or just connect over Wi-Fi, and [Hypr Screen](https://github.com/kpanuragh/hypr-screen) turns it into a real Hyprland monitor next to your laptop screen. Drag windows onto it, give it its own workspaces, touch and type on it. Copy on one, paste on the other. Play a video's sound on the phone, or use the phone as your mic in a call. This widget puts all of it one click away in the Omarchy bar.
 
 <p align="center">
   <a href="https://github.com/kpanuragh/hypr-screen/raw/main/docs/demo.mp4"><img src="demo.gif" alt="Hypr Screen: a phone used as a Hyprland monitor, typing with the phone keyboard and browsing" width="640"></a>
